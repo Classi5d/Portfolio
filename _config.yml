@@ -7,17 +7,16 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Anthony Vu's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: Anthony Vu
 headline: headline message
-description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- # don't remove this line
+Mechanical Engineering graduate with a passion for mechanical design, CAD modeling, and structural analysis. I specialize in SolidWorks and enjoy combining creativity with engineering to solve real-world problems. My portfolio highlights hands-on projects ranging from hybrid CNC/3D printers to reverse engineered tools and Doppler effect demonstrations.
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -25,7 +24,7 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: https://docs.google.com/document/d/1ClESZQAd4yCIUNB9SV583a53QnEPZhnHtnNyHGwkOOM/edit?usp=sharing
 
 
 # Set up external links - this will show up as small icons next to your name.
@@ -47,26 +46,11 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
     - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
   - category: Prototyping
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
+    - Basic CNC
+    - Arduino
     - Breadboarding for circuit testing
   - category: Design Standards / Practices
     tools:
